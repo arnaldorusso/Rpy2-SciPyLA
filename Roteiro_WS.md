@@ -12,6 +12,3 @@
 
 * Instalação Rpy2
 
-
-cat libR.conf /usr/local/lib/R/lib/
-
